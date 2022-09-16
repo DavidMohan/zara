@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zara/static/css/main.073c9b0a.css",
+    "main.js": "/zara/static/js/main.c5f7b3af.js",
+    "index.html": "/zara/index.html",
+    "main.073c9b0a.css.map": "/zara/static/css/main.073c9b0a.css.map",
+    "main.c5f7b3af.js.map": "/zara/static/js/main.c5f7b3af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c5f7b3af.js"
+  ]
+}
